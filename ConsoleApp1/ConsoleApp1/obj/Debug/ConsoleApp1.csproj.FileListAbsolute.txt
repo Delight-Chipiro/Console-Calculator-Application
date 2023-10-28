@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Student\Documents\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Student\Documents\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Student\Documents\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Student\Documents\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\delig\Desktop\Projects to be uploaded\C#\Delight_Chipiro_PRG2X1_CT1\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\delig\Desktop\Projects to be uploaded\C#\Delight_Chipiro_PRG2X1_CT1\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\delig\Desktop\Projects to be uploaded\C#\Delight_Chipiro_PRG2X1_CT1\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\delig\Desktop\Projects to be uploaded\C#\Delight_Chipiro_PRG2X1_CT1\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\delig\Desktop\Projects to be uploaded\C#\Delight_Chipiro_PRG2X1_CT1\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\delig\Desktop\Projects to be uploaded\C#\Delight_Chipiro_PRG2X1_CT1\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\delig\Desktop\Projects to be uploaded\C#\Delight_Chipiro_PRG2X1_CT1\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\delig\Desktop\Projects to be uploaded\C#\Delight_Chipiro_PRG2X1_CT1\Delight_Chipiro_PRG2X1_CT1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
